@@ -18,13 +18,7 @@ import (
 	"strings"
 	"time"
 
-	"log"
 	"math/rand"
-	"net"
-	"os"
-	"strconv"
-	"strings"
-	"time"
 
 	"github.com/go-jose/go-jose/v3/jwt"
 	"github.com/google/uuid"
